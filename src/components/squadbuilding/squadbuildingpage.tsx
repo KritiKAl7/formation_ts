@@ -6,7 +6,7 @@ import PitchComponent from "./components/pitch";
 import Formation from "./components/formation";
 import Playerpool from "./components/playerpool";
 import { DragDropContext } from "react-beautiful-dnd";
-import { players } from "../../data/players.js";
+import { players } from "../../data/players";
 import { Button } from "antd";
 import SkillPoints from "./components/skillpoints";
 
